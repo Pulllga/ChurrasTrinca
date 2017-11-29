@@ -11,7 +11,9 @@ namespace ChurrasTrinca
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            String variavel = "KaKaKa";
 
+            Object vObj = form1.Controls[0];
         }
     }
 }
